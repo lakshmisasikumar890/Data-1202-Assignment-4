@@ -23,23 +23,23 @@ Anaconda
 
 **Execution Steps**
 
-1) Import Libraries
+  1) Import Libraries
 
-2) Load CSV
+  2) Load CSV
 
-3) To capture the top 1000 channel types based on subscribers, datasource is sorted in descending order and assigned to a new df called "sorted df."
+  3) To capture the top 1000 channel types based on subscribers, datasource is sorted in descending order and assigned to a new df called "sorted df."
 
-4)Iloc is used to filter the first 1000 rows, which are then allocated 
+  4)Iloc is used to filter the first 1000 rows, which are then allocated 
 
-5)The new dataframe's tail indicates that the top 1000 
+  5)The new dataframe's tail indicates that the top 1000 
 
-6)A function is developed to determine how the top 1000 records are distributed per channel type.
+  6)A function is developed to determine how the top 1000 records are distributed per channel type.
 
-7)Function is used to display the function's 
+  7)Function is used to display the function's 
 
-8)The top 1000 records are used to generate a function that plots the distribution of records by channel type.
+  8)The top 1000 records are used to generate a function that plots the distribution of records by channel type.
 
-9)Function is used to display the function's 
+  9)Function is used to display the function's 
 
 **Developers**
 
